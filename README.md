@@ -20,8 +20,8 @@ To do this, a theoretical process for increasing creativity with the help of AI 
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN (Karras et al., 2018)using the trained „CelebA-HQ“ model: 
 <br>
 <br>
-![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.jpg)
-Dataset: „CelebA-HQ“ (Karras et al., 2019)
+![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.jpg)<br>
+Model: „CelebA-HQ“ (Karras et al., 2019)
 <br><br><br>
 In the next step, different algorithms and models were combined in a specific way to manipulate the generated portrait and create new forms of representation. At this point, of course, the combination of models can be extended and rearranged as desired. So there is the possibility of more and more variations.
 <br>
