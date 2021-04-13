@@ -13,12 +13,12 @@ On this basis, the creative process was analyzed and compared with the possibili
 
 To do this, a theoretical process for increasing creativity with the help of AI was developed, which was then implemented using a practical design task as an example: Finding new and creative ways to represent a portrait. This process essentially consists of two steps: 
 
-1. Generate as many different variations of one portrait as possible.
-2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
+## 1. Generate as many different variations of one portrait as possible.
+## 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
 
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN using the trained Celeb-HQ data set: 
 
-![image](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.png)
+<img scr="https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.png" width="200">
 
 In the next step, different algorithms and models were combined in a specific way to manipulate the generated portrait and create new forms of representation. At this point, of course, the combination of models can be extended and rearranged as desired. So there is the possibility of more and more variations.
 
