@@ -5,7 +5,7 @@
 <br>
 
 ### "Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
-<br><br>
+<br>
 How will it be possible to stimulate and increase human creativity related to visual design by using resources from the field of artificial intelligence to overcome the predictable and achieve innovative, creative results? Will it be possible to break collective thought patterns through targeted, non-human stimuli and create a new level of creativity in the interaction between humans and artificial intelligence? How can we make use of the significant advances in the field of AI in recent years to build the creative process of the future in an enriching way? 
 
 The possibility of mathematically representing complex systems such as language or painting styles enables a completely new approach to a variety of topics. Connections in large amounts of data can be detected and rules can be extracted from them. Based on these rules, data can be combined with each other, resulting in outcomes that exceed what is humanly possible. 
@@ -21,16 +21,16 @@ In the first step, new types of portrait variations are to be generated. For thi
 <br>
 <br>
 ![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.jpg)
-<br><br>
+<br><br><br>
 In the next step, different algorithms and models were combined in a specific way to manipulate the generated portrait and create new forms of representation. At this point, of course, the combination of models can be extended and rearranged as desired. So there is the possibility of more and more variations.
 <br>
 ![combination of models](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img03.jpg)
-<br><br>
+<br><br><br>
 In this way, over 10000 portrait variants were generated in this example. 
-<br><br>
+<br><br><br>
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img04.jpg)
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img05.jpg)
-<br><br>
+<br><br><br><br>
 In the second instance of the designed process, the images, which have a personal inspiring effect on an individual user, must be found from the multitude of results. To make this possible, all generated images are classified according to various criteria:
 
 - General visual similarity (Img2Vec)
@@ -48,7 +48,7 @@ The process is exemplified by portrait variations, but can be applied to many ot
 
 
 www.artificial-inspiration.com
-<br><br><br>
+<br><br><br><br>
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img06.jpg)
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img07.jpg)
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img08.jpg)
