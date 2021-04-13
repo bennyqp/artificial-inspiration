@@ -1,8 +1,7 @@
 # artificial-inspiration
 
-<img scr="Demo%20Images/artificial_inspiration_img01.jpg">
+![image]https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img01.jpg
 
-![image](https://user-images.githubusercontent.com/66516706/114553108-962b9280-9c65-11eb-9dfe-b69fdea71e1c.png)
 
 "Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
 
