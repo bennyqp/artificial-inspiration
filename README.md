@@ -13,8 +13,9 @@ On this basis, the creative process was analyzed and compared with the possibili
 
 To do this, a theoretical process for increasing creativity with the help of AI was developed, which was then implemented using a practical design task as an example: Finding new and creative ways to represent a portrait. This process essentially consists of two steps: 
 
-## 1. Generate as many different variations of one portrait as possible.
-## 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
+#### 1. Generate as many different variations of one portrait as possible.
+#### 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
+
 
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN using the trained Celeb-HQ data set: 
 
@@ -23,9 +24,12 @@ In the first step, new types of portrait variations are to be generated. For thi
 
 In the next step, different algorithms and models were combined in a specific way to manipulate the generated portrait and create new forms of representation. At this point, of course, the combination of models can be extended and rearranged as desired. So there is the possibility of more and more variations.
 
+![combination of models](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img03.jpg)
 
+In this way, over 10000 portrait variants were generated in this example. 
 
-
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img04.jpg)
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img05.jpg)
 
 In the second instance of the designed process, the images, which have a personal inspiring effect on an individual user, must be found from the multitude of results. To make this possible, all generated images are classified according to various criteria:
 
@@ -43,6 +47,9 @@ The overriding goal is that the creativity of the user in relation to the subjec
 The process is exemplified by portrait variations, but can be applied to many other tasks: e.g. the design of logos or posters. There are no limits. 
 
 
-
-
 www.artificial-inspiration.com
+
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img06.jpg)
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img07.jpg)
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img08.jpg)
+![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img09.jpg)
