@@ -3,7 +3,7 @@
 ![artificial images header](Demo%20Images/artificial_inspiration_img01.jpg)
 
 
-"Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
+### "Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
 
 How will it be possible to stimulate and increase human creativity related to visual design by using resources from the field of artificial intelligence to overcome the predictable and achieve innovative, creative results? Will it be possible to break collective thought patterns through targeted, non-human stimuli and create a new level of creativity in the interaction between humans and artificial intelligence? How can we make use of the significant advances in the field of AI in recent years to build the creative process of the future in an enriching way? 
 
@@ -19,7 +19,7 @@ To do this, a theoretical process for increasing creativity with the help of AI 
 
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN using the trained Celeb-HQ data set: 
 
-![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.png)
+![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.jpg)
 
 
 In the next step, different algorithms and models were combined in a specific way to manipulate the generated portrait and create new forms of representation. At this point, of course, the combination of models can be extended and rearranged as desired. So there is the possibility of more and more variations.
