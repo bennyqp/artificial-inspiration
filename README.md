@@ -1,6 +1,7 @@
 # artificial-inspiration
 
 <img scr="Demo%20Images/artificial_inspiration_img01.jpg">
+![](Demo%20Images/artificial_inspiration_img01.jpg)
 
 "Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
 
