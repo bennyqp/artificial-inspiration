@@ -12,12 +12,10 @@ The possibility of mathematically representing complex systems such as language 
 On this basis, the creative process was analyzed and compared with the possibilities of AI. The goal is to generate impulses from the linking of various data and to show new perspectives on existing problems, which inspire people to find new solutions: Artificial Inspiration.
 
 To do this, a theoretical process for increasing creativity with the help of AI was developed, which was then implemented using a practical design task as an example: Finding new and creative ways to represent a portrait. This process essentially consists of two steps: 
-  
-  
+<br><br>
 #### 1. Generate as many different variations of one portrait as possible.
 #### 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
-  
-  
+<br><br>
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN using the trained Celeb-HQ data set: 
 
 ![stylegan protrait](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img02.jpg)
