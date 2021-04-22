@@ -29,9 +29,9 @@ In the next step, different algorithms and models were combined in a specific wa
 <br>
 1. The initial image was generated using StyleGAN (Karras et al., 2018) with a trained model on the "CelebA-HQ" dataset (Karras et al., 2019). <br>
 <br>
-2. SinGAN (Shaham et al., 2019) was used to make broad changes to the structure of the initial image to increase the variance of the results. It was implemented using a notebook by Derrick Schulz (Notebook: Schultz, 2019). <br>
+1. SinGAN (Shaham et al., 2019) was used to make broad changes to the structure of the initial image to increase the variance of the results. It was implemented using a notebook by Derrick Schulz (Notebook: Schultz, 2019). <br>
 <br>
-3. StyleGAN network blending, which was introduced by Justin Pinkney (Pinkney, 2020), is used to blend two StyleGAN models. To be specific, a StyleGAN2 model trained only on the initial image, and therefore able to replicate it, was merged with a second network trained on the MetFaces dataset (data: Karras et al., 2020). This produces images of the initial portrait, with variations in the angle and shape of the head. In addition, the resulting images are reminding of paintings. <br>
+1. StyleGAN network blending, which was introduced by Justin Pinkney (Pinkney, 2020), is used to blend two StyleGAN models. To be specific, a StyleGAN2 model trained only on the initial image, and therefore able to replicate it, was merged with a second network trained on the MetFaces dataset (data: Karras et al., 2020). This produces images of the initial portrait, with variations in the angle and shape of the head. In addition, the resulting images are reminding of paintings. <br>
 <br>
 4. In transfer learning, the data set on which StyleGAN trains was exchanged during the training process. A notebook by Derrick Schulz was used for this purpose (Notebook: Schultz, 2020). First, the network was trained on a dataset of logos (Data: Sage et al., 2017). Then, this dataset was replaced with only the initial image. This results in interesting and very abstract portrait representations.<br>
 <br>
@@ -40,7 +40,7 @@ In the next step, different algorithms and models were combined in a specific wa
 6. Deep Dream visualizes what a trained image recognition neural network sees in an image. Here, the "Inception v1" model (Szegedy et al., 2014). For implementation, a notebook was adapted for this purpose. The original notebook and associated code are from Alexander Mordvintsev (Notebook: Mordvintsev).<br>
 <br>
 7. All images were generated or manipulated in a resolution of 256x256 pixels, since this is considerably faster and saves computing power. However, since a higher resolution is desired for the result, the images are finally run through a "Super-Resolution" algorithm, whereby the image size is increased to 1024x1024. For this, "Image Super Resolution" was used (Francesco Cardinale et al., 2018).<br>
-<br>
+
 <br><br>
 In this way, over 10000 portrait variants were generated in this example. 
 <br><br><br>
