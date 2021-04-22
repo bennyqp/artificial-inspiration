@@ -46,7 +46,7 @@ In the next step, different algorithms and models were combined in a specific wa
 
 All notebooks used for image synthesis and manipulation in this project can be found in the folder [Image Generation](https://github.com/bennyqp/artificial-inspiration/tree/main/Image%20Generation).
 <br><br>
-In this way, over 10000 portrait variants were generated in this example. 
+In this way, over 10000 portrait variants were generated. 
 <br><br>
 
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img04.jpg)
