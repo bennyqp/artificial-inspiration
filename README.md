@@ -16,7 +16,11 @@ For this purpose, a theoretical process for increasing creativity with the help 
 <br><br>
 #### 1. Generate as many different variations of one portrait as possible.
 #### 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
-<br><br>
+<br>
+This theoretical process was then exemplified in the project using a specific practical design task: Finding new and creative ways to represent a portrait.
+<br>
+The implementation of this is explained below. All sources and the code used for this are provided, so that the experiment can be replicated. Of course, the process can also be implemented with modifications for many other design tasks.If you develop new results based on the proposed process I am very happy about it and ask you to share them :-) 
+<br>
 In the first step, new types of portrait variations are to be generated. For this purpose, an initial portrait was first generated with StyleGAN (Karras et al., 2018) using the trained „CelebA-HQ“ model: 
 <br>
 <br>
