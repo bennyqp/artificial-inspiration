@@ -58,10 +58,10 @@ In this way, over 10000 portrait variants were generated.
 
 In the second instance of the designed process, the images, which have a personal inspiring effect on an individual user, must be found from the multitude of results. To make this possible, all generated images are classified according to various criteria:
 
-- General visual similarity (Img2Vec)
-- Style of the image (Img2Vec)
-- Color scheme (KMeans) 
-- Degree of abstractness (Face Recognition) 
+- General visual similarity (using Img2Vec ([img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
+- Style of the image (using Img2Vec ([img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
+- Color scheme (using KMeans) 
+- Degree of abstractness (using Face Recognition) 
 
 The notebook used to classify the image dataset can be found here: [Image Classification Notebook](https://github.com/bennyqp/artificial-inspiration/blob/main/ai_image_classification.ipynb)
 <br>
@@ -106,6 +106,10 @@ https://arxiv.org/pdf/1905.01164.pdf <br>
 Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A. (2014): Going Deeper with Convolutions. <br>
 https://arxiv.org/pdf/1409.4842v1.pdf <br>
 (Retrieved: 05.01.2021) <br>
+<br>
+Winick, J., (2019): img2vec-keras. <br>
+https://github.com/jaredwinick/img2vec-keras <br>
+(Zugriff: 04.11.2020)
 
 <br><br>
 #### Notebooks
