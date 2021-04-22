@@ -35,7 +35,7 @@ In the next step, different algorithms and models were combined in a specific wa
 1. Deep Dream visualizes what a trained image recognition neural network sees in an image. Here, the "Inception v1" model (Szegedy et al., 2014). For implementation, a notebook was adapted for this purpose. The original notebook is from [Derrick Schultz](https://github.com/dvschultz) with code from Alexander Mordvintsev [(Notebook: Schultz)](https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb). You can find the modified version of the notebook used in this project [here](https://github.com/bennyqp/artificial-inspiration/blob/main/Image%20Generation/ai_image_generation_deepdream.ipynb).
 1. All images were generated or manipulated in a resolution of 256x256 pixels, since this is considerably faster and saves computing power. However, since a higher resolution is desired for the result, the images are finally run through a "Super-Resolution" algorithm, whereby the image size is increased to 1024x1024. For this, "Image Super Resolution" was used [(Francesco Cardinale et al., 2018)](https://github.com/idealo/image-super-resolution).
 <br>
-All notebooks used for image synthesis and manipulation in this project can be found in the folder ["Image Generation"](https://github.com/bennyqp/artificial-inspiration/tree/main/Image%20Generation).
+All notebooks used for image synthesis and manipulation in this project can be found in the folder [Image Generation](https://github.com/bennyqp/artificial-inspiration/tree/main/Image%20Generation).
 <br><br>
 In this way, over 10000 portrait variants were generated in this example. 
 <br><br><br>
