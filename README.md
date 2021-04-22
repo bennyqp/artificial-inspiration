@@ -81,7 +81,7 @@ Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., V
 https://arxiv.org/pdf/1409.4842v1.pdf <br>
 (Retrieved: 05.01.2021) <br>
 <br><br>
-#### Notebooks
+#### References
 <br>
 Mordvintsev A.: DeepDreaming with TensorFlow. <br>
 https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb <br>
@@ -102,9 +102,11 @@ https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb <br>
 Schultz, D. (2020): StyleGAN2. <br>
 https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb <br>
 (Retrieved: 21.10.2020) <br>
+
 <br><br>
-#### Data
+#### References
 <br>
+
 Bryan, B. (2020): Abstract Art Gallery. Version 10. <br>
 https://www.kaggle.com/bryanb/abstract-art-gallery/version/10 <br>
 (Retrieved: 10.11.2020) <br>
