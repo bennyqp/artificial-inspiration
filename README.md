@@ -54,3 +54,31 @@ www.artificial-inspiration.com
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img07.jpg)
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img08.jpg)
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img09.jpg)
+
+<br><br>
+####References
+<br>
+Francesco Cardinale et al. (2018): ISR. <br>
+https://github.com/idealo/image-super-resolution <br>Weights: https://github.com/idealo/image-super-resolution/blob/master/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5 <br>
+(Retrieved: 14.11.2020) <br>
+<br>
+Karras, T., Aila, T., Laine, S., Lehtinen, J. (2018): Progressive Growing of GANs for Improved Quality, Stability, and Variation. <br>
+https://arxiv.org/pdf/1710.10196.pdf <br>(Retrieved: 02.01.2021) <br>
+<br>
+Karras, T., Laine, S., Aila, T. (2019): A Style-Based Generator Architecture for Generative Adversarial Networks. <br> 
+https://arxiv.org/pdf/1812.04948.pdf <br>
+(Retrieved: 31.12.2020) <br>
+<br>
+Pinkney, J. (2020): StyleGAN network blending. <br>
+https://www.justinpinkney.com/stylegan-network-blending/ <br>
+(Retrieved: 03.01.2021) <br>
+<br>
+Shaham, T. R., Dekel, T.. Michaeli, T. (2019): SinGAN: Learning a Generative Model from a Single Natural Image. <br>
+https://arxiv.org/pdf/1905.01164.pdf <br>
+(Retrieved: 03.01.2021) <br>
+<br>
+Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A. (2014): Going Deeper with Convolutions. <br>
+https://arxiv.org/pdf/1409.4842v1.pdf <br>
+(Retrieved: 05.01.2021) <br>
+<br>
+
