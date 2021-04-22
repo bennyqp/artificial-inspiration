@@ -63,6 +63,8 @@ In the second instance of the designed process, the images, which have a persona
 - Color scheme (KMeans) 
 - Degree of abstractness (Face Recognition) 
 
+<br>
+The notebook used to classify the image dataset can be found here: [Image Classification Notebook](https://github.com/bennyqp/artificial-inspiration/blob/main/ai_image_classification.ipynb)
 
 Based on this analysis, a three-dimensional vector is now assigned to each image. Subsequently, a virtual reality application was developed that allows navigation through the three-dimensional space of images. In this application, the images can also be filtered according to the criteria already mentioned and clustered with the help of "filter bombs". This makes it possible to explore different perspectives on the subject of portraits, store inspiring approaches, compare them and develop new ideas from them.
 
