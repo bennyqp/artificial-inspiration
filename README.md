@@ -80,9 +80,8 @@ https://arxiv.org/pdf/1905.01164.pdf <br>
 Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A. (2014): Going Deeper with Convolutions. <br>
 https://arxiv.org/pdf/1409.4842v1.pdf <br>
 (Retrieved: 05.01.2021) <br>
-<br>
-<br>
-#### Notebooks 
+<br><br>
+#### Notebooks
 <br>
 Mordvintsev A.: DeepDreaming with TensorFlow. <br>
 https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb <br>
