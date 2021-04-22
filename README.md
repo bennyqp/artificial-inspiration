@@ -56,7 +56,7 @@ www.artificial-inspiration.com
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img09.jpg)
 
 <br><br>
-####References
+#### References
 <br>
 Francesco Cardinale et al. (2018): ISR. <br>
 https://github.com/idealo/image-super-resolution <br>Weights: https://github.com/idealo/image-super-resolution/blob/master/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5 <br>
@@ -81,4 +81,48 @@ Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., V
 https://arxiv.org/pdf/1409.4842v1.pdf <br>
 (Retrieved: 05.01.2021) <br>
 <br>
-
+<br>
+#### Notebooks 
+<br>
+Mordvintsev A.: DeepDreaming with TensorFlow. <br>
+https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb <br>
+(Retrieved: 22.11.2020) <br>
+<br>
+Pinkney, J. (2020): Network blending in StyleGAN. <br>
+https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_ Xrko?usp=sharing <br>
+(Retrieved: 26.10.2020) <br>
+<br>
+Schultz, D. (2019): SinGAN. <br>
+https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb <br>
+(Retrieved: 02.11.2020) <br>
+<br>
+Schultz, D. (2020): Neural Style TF. <br>
+https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb <br>
+(Retrieved: 26.10.2020) <br>
+<br>
+Schultz, D. (2020): StyleGAN2. <br>
+https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb <br>
+(Retrieved: 21.10.2020) <br>
+<br><br>
+#### Data
+<br>
+Bryan, B. (2020): Abstract Art Gallery. Version 10. <br>
+https://www.kaggle.com/bryanb/abstract-art-gallery/version/10 <br>
+(Retrieved: 10.11.2020) <br>
+<br>
+Kaggle (2016): Painter By Numbers. <br>
+https://www.kaggle.com/c/painter-by-numbers/data <br>
+(Retrieved: 11.12.2020) <br>
+<br>
+Karras T., Aittala, M., Hellsten, J., Laine, S., Lehtinen, J., Aila, T. (2020): Met- Faces. Version 1. <br>
+https://github.com/NVlabs/metfaces-dataset <br>
+(Retrieved: 03.01.2021) <br>
+<br>
+Sage, A., Agustsson, E.,Timofte, R., Van Gool, L. (2017): LLD - Large Logo Dataset. Version 0.1. <br>
+https://data.vision.ee.ethz.ch/cvl/lld <br>
+(Retrieved: 24.10.2020) <br>
+<br>
+Surma, G. (2019): Abstract Art Images. Version 1. <br>
+https://www.kaggle.com/greg115/abstract-art/version/1 <br>
+(Retrieved: 10.11.2020) <br>
+<br>
