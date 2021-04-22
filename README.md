@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### "Artificial Inspiration" is an attempt to stimulate and enhance human creativity in a new way using artificial intelligence to achieve new and more creative results. 
+### "Artificial Inspiration" is an attempt to stimulate and enhance human creativity using artificial intelligence to achieve new and more creative results. 
 <br>
 How will it be possible to stimulate and increase human creativity related to visual design by using resources from the field of artificial intelligence to overcome the predictable and achieve innovative, creative results? Will it be possible to break collective thought patterns through targeted, non-human stimuli and create a new level of creativity in the interaction between humans and artificial intelligence? How can we make use of the significant advances in the field of AI in recent years to build the creative process of the future in an enriching way? 
 
@@ -12,7 +12,7 @@ The possibility of mathematically representing complex systems such as language 
 
 On this basis, the creative process was analyzed and compared with the possibilities of AI. The goal is to generate impulses from the linking of various data and to show new perspectives on existing problems, which inspire people to find new solutions: Artificial Inspiration.
 
-To do this, a theoretical process for increasing creativity with the help of AI was developed, which was then implemented using a practical design task as an example: Finding new and creative ways to represent a portrait. This process essentially consists of two steps: 
+For this purpose, a theoretical process for increasing creativity with the help of AI was developed, which essentially consists of two steps: 
 <br><br>
 #### 1. Generate as many different variations of one portrait as possible.
 #### 2. Assisting in identifying the drafts that are found to be personally inspiring by an individual.
