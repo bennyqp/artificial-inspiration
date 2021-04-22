@@ -80,9 +80,11 @@ https://arxiv.org/pdf/1905.01164.pdf <br>
 Szegedy, C. Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., Rabinovich, A. (2014): Going Deeper with Convolutions. <br>
 https://arxiv.org/pdf/1409.4842v1.pdf <br>
 (Retrieved: 05.01.2021) <br>
+
 <br><br>
-#### References
+#### Notebooks
 <br>
+
 Mordvintsev A.: DeepDreaming with TensorFlow. <br>
 https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb <br>
 (Retrieved: 22.11.2020) <br>
@@ -104,7 +106,7 @@ https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb <br>
 (Retrieved: 21.10.2020) <br>
 
 <br><br>
-#### References
+#### Data
 <br>
 
 Bryan, B. (2020): Abstract Art Gallery. Version 10. <br>
