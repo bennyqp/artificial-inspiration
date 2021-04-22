@@ -58,15 +58,16 @@ In this way, over 10000 portrait variants were generated.
 
 In the second instance of the designed process, the images, which have a personal inspiring effect on an individual user, must be found from the multitude of results. To make this possible, all generated images are classified according to various criteria:
 
-- General visual similarity (using Img2Vec ([img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
-- Style of the image (using Img2Vec ([img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
+- General visual similarity (using Img2Vec – [img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
+- Style of the image (using Img2Vec – [img2vec-keras](https://github.com/jaredwinick/img2vec-keras) by [Jared Winick](https://github.com/jaredwinick))
 - Color scheme (using KMeans) 
 - Degree of abstractness (using Face Recognition) 
 
 The notebook used to classify the image dataset can be found here: [Image Classification Notebook](https://github.com/bennyqp/artificial-inspiration/blob/main/ai_image_classification.ipynb)
 <br>
 
-Based on this analysis, a three-dimensional vector is now assigned to each image. Subsequently, a virtual reality application was developed that allows navigation through the three-dimensional space of images. In this application, the images can also be filtered according to the criteria already mentioned and clustered with the help of "filter bombs". This makes it possible to explore different perspectives on the subject of portraits, store inspiring approaches, compare them and develop new ideas from them.
+Based on this analysis, a three-dimensional vector is now assigned to each image. Subsequently, a virtual reality application was developed that allows navigation through the three-dimensional space of images. In this application, the images can also be filtered according to the criteria already mentioned and clustered with the help of "filter bombs". This makes it possible to explore different perspectives on the subject of portraits, store inspiring approaches, compare them and develop new ideas from them. <br>
+The implementation of the VR application is done in Unity<br>
 
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
 
