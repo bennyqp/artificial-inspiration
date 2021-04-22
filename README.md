@@ -27,11 +27,9 @@ In the next step, different algorithms and models were combined in a specific wa
 <br>
 ![combination of models](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img03.jpg)
 <br>
-1. The initial image was generated using StyleGAN (Karras et al., 2018) with a trained model on the "CelebA-HQ" dataset (Karras et al., 2019). <br>
-<br>
-1. SinGAN (Shaham et al., 2019) was used to make broad changes to the structure of the initial image to increase the variance of the results. It was implemented using a notebook by Derrick Schulz (Notebook: Schultz, 2019). <br>
-<br>
-1. StyleGAN network blending, which was introduced by Justin Pinkney (Pinkney, 2020), is used to blend two StyleGAN models. To be specific, a StyleGAN2 model trained only on the initial image, and therefore able to replicate it, was merged with a second network trained on the MetFaces dataset (data: Karras et al., 2020). This produces images of the initial portrait, with variations in the angle and shape of the head. In addition, the resulting images are reminding of paintings. <br>
+1. The initial image was generated using StyleGAN (Karras et al., 2018) with a trained model on the "CelebA-HQ" dataset (Karras et al., 2019). 
+1. SinGAN (Shaham et al., 2019) was used to make broad changes to the structure of the initial image to increase the variance of the results. It was implemented using a notebook by Derrick Schulz (Notebook: Schultz, 2019). 
+1. StyleGAN network blending, which was introduced by Justin Pinkney (Pinkney, 2020), is used to blend two StyleGAN models. To be specific, a StyleGAN2 model trained only on the initial image, and therefore able to replicate it, was merged with a second network trained on the MetFaces dataset (data: Karras et al., 2020). This produces images of the initial portrait, with variations in the angle and shape of the head. In addition, the resulting images are reminding of paintings.
 <br>
 4. In transfer learning, the data set on which StyleGAN trains was exchanged during the training process. A notebook by Derrick Schulz was used for this purpose (Notebook: Schultz, 2020). First, the network was trained on a dataset of logos (Data: Sage et al., 2017). Then, this dataset was replaced with only the initial image. This results in interesting and very abstract portrait representations.<br>
 <br>
