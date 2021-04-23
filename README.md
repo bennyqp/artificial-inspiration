@@ -67,7 +67,14 @@ The notebook used to classify the image dataset can be found here: [Image Classi
 <br>
 
 Based on this analysis, a three-dimensional vector is now assigned to each image. Subsequently, a virtual reality application was developed that allows navigation through the three-dimensional space of images. In this application, the images can also be filtered according to the criteria already mentioned and clustered with the help of "filter bombs". This makes it possible to explore different perspectives on the subject of portraits, store inspiring approaches, compare them and develop new ideas from them. <br>
-The implementation of the VR application is done in Unity<br>
+<br>
+The implementation of the VR application is done in Unity. You can use the Unity project with the following steps:<br>
+#### Requirements
+– Unity 2019.4.15f1<br>
+– for VR and all functions: Oculus Quest, which you connect to your computer via Oculus Link<br>
+<br><br>
+#### Steps to use the VR Data Explorer: 
+1. Analyze your own images using the [classification script](https://github.com/bennyqp/artificial-inspiration/blob/main/ai_image_classification.ipynb) and create the corresponding CSV file or download the original "Creative Portrait Dataset" for Unity and the corresponding CSV file [here](https://drive.google.com/file/d/1l8oa6ncwP0rItGJ3a2RVeEg1e5dkOgmf/view?usp=sharing).
 
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
 
