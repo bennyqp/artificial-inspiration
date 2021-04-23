@@ -82,6 +82,8 @@ The implementation of the VR application is done in Unity. You can use the Unity
 1. If you want to access your selected images online later, upload the content in the folder "artificial-inspiration/selected images web app" to a server. Then add the link to the file "artificial-inspiration/selected images web app/images/uploadImages.php" in Unity under "Images Upload URL" in the script "Upload Images".
 1. If you don't use VR, activate "Start in Explore Mode" in the "Constructor" script. You can view the images and apply filters in the editor. Most of the functions are unfortunately not available.
 1. If you use VR, you can use all the features. You can find them all in Unity and use most of them during the VR experience to explore your dataset and find the most exciting images. 
+1. Pretty much all the settings parameters are in the scripts on the "GlobalScripts" GameObject. Here you can play around and change the settings to try out different things. 
+1. Get inspired and develop new ideas ;-)
 <br><br>
 
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
