@@ -79,6 +79,7 @@ The implementation of the VR application is done in Unity. You can use the Unity
 1. Clone this repository and replace the file "artificial-inspiration/Unity VR Dataset Explorer/Assets/Resources/img2vec.csv" with your generated img2vec.csv or with the downloaded file. 
 1. Replace the folder "artificial-inspiration/Unity VR Dataset Explorer/Assets/Resources/images/" with your generated image folder or the one you downloaded. Important: The folder MUST be named "images" and the CSV file "img2vec.cvs"
 1. Open the folder "artificial-inspiration/Unity VR Dataset Explorer" with Unity 2019.4.15f1.
+1. If you want to access your selected images online later, upload the content in the folder "artificial-inspiration/selected images web app" to a server. Then add the link to the file "artificial-inspiration/selected images web app/images/uploadImages.php" in Unity under "Images Upload URL" in the script "Upload Images".
 1. If you don't use VR, activate "Start in Explore Mode" in the "Constructor" script. You can view the images and apply filters in the editor. Most of the functions are unfortunately not available.
 1. If you use VR, you can use all the features. You can find them all in Unity and use most of them during the VR experience to explore your dataset and find the most exciting images. 
 <br><br>
