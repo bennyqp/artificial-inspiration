@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+/*Allgemein*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+
+    background-color: rgba(30,30,30,1.0);
+    padding: 0;
+    margin: 0;
+    color: white;
+
+    font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+button {
+	background-color:#ffffff;
+	border-radius:16px;
+	border: none;
+	display: block;
+	cursor:pointer;
+	color:#525252;
+	font-family: 'Roboto', sans-serif;
+	font-size:17px;
+	padding:10px 60px;
+	text-decoration:none;
+	margin: auto;
+}
+button:hover {
+	background-color:#5700ff;
+	color: white;
+}
+button:focus {outline:0;}
+
+input { 
+	display: block;
+	font-size:34px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align:center; 
+	margin: auto;
+	border: 0;
+  	outline: 0;
+  	background: transparent;
+  	border-bottom: 1px solid white;
+  	width: 400px;
+} 
+input:focus { outline:none; } 
+
+#idInput {
+	margin-bottom: 50px;
+}
+
+.container {
+	margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    max-width: 1366px;
+
+    text-align: left;
+}
+
+#imageCointainer {
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+.genImage {
+	margin: 10px;
+	max-width: 500px;
+}
+
+.logo {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 320px;
+}
+
+.whiteSection {
+  	height: 150px;
+  	background-color: #5700ff;
+}
+.whiteArrowDown {
+	display: block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 40px 50vw 40px 50vw;
+	border-color: #5700ff transparent transparent transparent;
+}
+
+
+/* Fonts */
+
+h1 {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0px;
+
+    font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0px;
+
+    font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-style: normal;
+}
+
+#input {
+	color: grey;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ai — artificial inspiration</title>
+    <link href="styles.css" rel="stylesheet" type="text/css">
+
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap" rel="stylesheet">
+
+    <!--Load Libraries-->
+    <script src="lib/p5.min.js"></script>
+    <script src="js/sketch.js"></script>
+
+  </head>
+
+  <body>
+    <div class="whiteSection">
+      <div class="container">
+        <div style="height: 60px;"></div>
+        <img src="img/ai_logo_white.png" alt="artificial inspiration logo" class="logo">
+      </div>
+    </div>
+    <div class="whiteArrowDown"></div>
+
+    <div class="container">
+      <div style="height: 20px;"></div>
+      <h1>Saved Images</h1>
+      <h2>Enter your session ID and receive your selected images.</h2>
+      <div style="height: 50px;"></div>
+
+      <input type="sessionID" id="idInput" placeholder="Session ID">
+
+      <button type="button" id="showImagesBtn">Show Images</button>
+
+      <button type="button" id="removeImagesBtn">Go Back</button>
+
+    </div>
+    <div style="height: 100px;"></div>
+    <div id ="imageCointainer"></div>
+
+  </body>
+  
+</html>
