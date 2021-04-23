@@ -89,9 +89,6 @@ The implementation of the VR application is done in Unity. You can use the Unity
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
 
 
-The process is exemplified by portrait variations, but can be applied to many other tasks: e.g. the design of logos or posters. There are no limits. 
-
-
 www.artificial-inspiration.com
 <br><br><br><br>
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img06.jpg)
