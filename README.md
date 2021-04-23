@@ -73,10 +73,11 @@ The implementation of the VR application is done in Unity. You can use the Unity
 #### Requirements
 – Unity 2019.4.15f1<br>
 – for VR and all functions: Oculus Quest, which you connect to your computer via Oculus Link<br>
-<br>
+
 #### Steps to use the VR Data Explorer: 
 1. Analyze your own images using the [classification script](https://github.com/bennyqp/artificial-inspiration/blob/main/ai_image_classification.ipynb) and create the corresponding CSV file or download the original "Creative Portrait Dataset" for Unity and the corresponding CSV file [here](https://drive.google.com/file/d/1l8oa6ncwP0rItGJ3a2RVeEg1e5dkOgmf/view?usp=sharing).
 <br><br>
+
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
 
 
