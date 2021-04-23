@@ -54831,7 +54831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startInExploreMode: 1
-  quickStart: 1
+  quickStart: 0
   home: {fileID: 1058820095}
   posScale: 120
   yPosScale: 100
