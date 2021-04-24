@@ -53,11 +53,12 @@ In this way, over 10000 portrait variants were generated. You can find the final
 ![artificial inspiration images](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img05.jpg)
 
 <br>
+
 Also, a StyleGAN2-ADA network was trained from the resulting "Creative Portrait Dataset". You can find the pickle file here: [CreativePortraitGAN](https://drive.google.com/file/d/1liFCrT6XVBRdJZGjClbjtAUgN4_Qzf4u/view?usp=sharing)
 
 <br>
-![CreativePortraitGAN Preview](http://www.ai.benedikt-falkenstein.com/creativePortraitGAN.gif)
 
+![CreativePortraitGAN Preview](http://www.ai.benedikt-falkenstein.com/creativePortraitGAN.gif)
 <br><br>
 ## 2. Identify inspiring results
 <br>
