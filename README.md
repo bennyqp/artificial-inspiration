@@ -58,7 +58,6 @@ Also, a StyleGAN2-ADA network was trained from the resulting "Creative Portrait 
 
 <br>
 
-![CreativePortraitGAN Preview](http://www.ai.benedikt-falkenstein.com/creativePortraitGAN.gif)
 <br><br>
 ## 2. Identify inspiring results
 <br>
