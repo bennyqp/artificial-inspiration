@@ -21,6 +21,7 @@ This theoretical process was then exemplified in the project using a specific pr
 <br>
 <br>
 #### Watch the trailer for this project:
+
 [![Watch the Trailer](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img10.jpg)](https://www.youtube.com/watch?v=DlIWnI1StFM)
 
 <br>
