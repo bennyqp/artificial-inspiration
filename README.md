@@ -5,11 +5,7 @@
 <br>
 
 ### "Artificial Inspiration" is an attempt to stimulate and enhance human creativity using artificial intelligence to achieve new and more creative results. 
-<br>
-
-[![Watch the Trailer](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img10.jpg)](https://www.youtube.com/watch?v=DlIWnI1StFM)
-
-<br>
+<br><br>
 How will it be possible to stimulate and increase human creativity related to visual design by using resources from the field of artificial intelligence to overcome the predictable and achieve innovative, creative results? Will it be possible to break collective thought patterns through targeted, non-human stimuli and create a new level of creativity in the interaction between humans and artificial intelligence? How can we make use of the significant advances in the field of AI in recent years to build the creative process of the future in an enriching way? 
 
 The possibility of mathematically representing complex systems such as language or painting styles enables a completely new approach to a variety of topics. Connections in large amounts of data can be detected and rules can be extracted from them. Based on these rules, data can be combined with each other, resulting in outcomes that exceed what is humanly possible. 
@@ -24,7 +20,9 @@ For this purpose, a theoretical process for increasing creativity with the help 
 This theoretical process was then exemplified in the project using a specific practical design task: Finding new and creative ways to represent a portrait.
 <br>
 <br>
+[![Watch the Trailer](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img10.jpg)](https://www.youtube.com/watch?v=DlIWnI1StFM)
 
+<br>
 The implementation of this is explained below. All sources and the code used for this are provided, so that the experiment can be replicated. Of course, the process can also be implemented with modifications for many other design tasks.If you develop new results based on the proposed process I am very happy about it and ask you to share them :-) 
 <br><br>
 
