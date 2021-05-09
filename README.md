@@ -20,6 +20,7 @@ For this purpose, a theoretical process for increasing creativity with the help 
 This theoretical process was then exemplified in the project using a specific practical design task: Finding new and creative ways to represent a portrait.
 <br>
 <br>
+
 #### Watch the trailer for this project:
 
 [![Watch the Trailer](https://github.com/bennyqp/artificial-inspiration/blob/main/Demo%20Images/artificial_inspiration_img10.jpg)](https://www.youtube.com/watch?v=DlIWnI1StFM)
