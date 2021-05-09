@@ -92,6 +92,8 @@ The implementation of the VR application is done in Unity. You can use the Unity
 1. Pretty much all the settings parameters are in the scripts on the "GlobalScripts" GameObject. Here you can play around and change the settings to try out different things. 
 1. Get inspired and develop new ideas ;-)
 <br><br>
+[You can also download the final Oculus build with the given sample data as an .apk file for your Oculus here.](https://drive.google.com/file/d/1eiHNsIFS2pggfxFwTzurIDvFk4qxgDGs/view?usp=sharing) You can then run it using Sidequest, for example. However, it is recommended to run the application via Unity using Oculus Link, as it requires quite a bit of performance and can lag when run as a standalone. 
+<br><br>
 
 The overriding goal is that the creativity of the user in relation to the subject matter is stimulated by this process and thus novel creative results can be developed. 
 
